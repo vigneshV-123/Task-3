@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "Vignesh",
+    "label": "",
+    "picture": "",
+    "email": "xsdfs@gmail.com",
+    "phone": "+91-1234567899",
+    "degree": "Bachelor Of Engineering",
+    "website": "https://www.linkedin.com/in/github.com/",
+    "summary": "I believe there are 2 types of people, one who believe that the future can't be seen, others who are building it, I fall in the latter category because I am too restless to sit and wait for things to happen, I am someone who likes to catalyze the events to reach the future faster, previously I was working on my own startup in the education and learning space, had 800k+ users as on 31/12/2020.",
+    "location": {
+      "address": "Bangalore",
+      "postalCode": "560056",
+      "city": "Bangalore",
+      "countryCode": "India",
+      "region": "Karnataka"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "abcdram",
+        "url": "https://www.linkedin.com/in/github.com/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Consulting",
+      "position": "Solution Architect",
+      "website": "https://consulty.com/",
+      "startDate": "2021-05-01",
+      "endDate": "",
+      "summary": "A one-sentence to one-paragraph summary of this employer or position",
+      "highlights": [
+        "Bullet-point list items that you would like to include along with (or instead of) a summary paragraph."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Technological University",
+      "area": "Bachelor of Engineering",
+      "studyType": "Graduation",
+      "courses": ["Electrical and electronics Engineering"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Your award title",
+      "date": "Your date, in YYYY-MM-DD format you received the award",
+      "awarder": "Your award given by",
+      "summary": "A one-sentence to one-paragraph overview of this award"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Interview with Anish Kumar Rathee, Founder of Learnr",
+      "publisher": "Most Popular Stories",
+      "releaseDate": "2020-04-23",
+      "website": "https://mostpopularstories.com/learnr/",
+      "summary": "I was invited by most popular stories, an online Magzine, as a Founder of Learnr.ai for an interview with Most Popular Stories to know about my entrepreneurial journey."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Website Designer and Developer",
+      "level": "Full Stack",
+      "keywords": ["Javascript, ReactJs, MongoDB, ExpressJs, NodeJs, HTML, CSS"]
+    }
+  ],
+  "languages": [
+    {
+      "language": ["tamil, english, malayalam"],
+      "fluency": "Mother Toungue"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports, NEWS",
+      "keywords": ["Cricket, Volleyball"]
+    }
+  ]
+}
